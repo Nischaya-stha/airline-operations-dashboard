@@ -2,6 +2,10 @@
 
 Interactive Power BI dashboard analyzing airline operations, delays, airport activity, and flight trends.
 
+## 📂 Download Power BI File
+
+[Download PBIX Dashboard](dashboard/Airline_Operations_Dashboard.pbix)
+
 ## 📊 Dashboard Pages
 
 ### Overview
