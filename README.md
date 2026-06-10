@@ -13,7 +13,7 @@ Interactive Power BI dashboard analyzing airline operations, delays, airport act
 ### Airport Analysis
 ![Airport Analysis](screenshots/airport-analysis.png)
 
-### Trends & Forecasting
+### Trends 
 ![Trends](screenshots/trends.png)
 
 ---
